@@ -1,2 +1,1 @@
-# puddingtonteststore
-Shopify test store
+Test store for playing with GraphQL, Ruby on Rails, etc
