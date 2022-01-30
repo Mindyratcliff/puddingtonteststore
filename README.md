@@ -1,0 +1,2 @@
+# puddingtonteststore
+Shopify test store
